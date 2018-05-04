@@ -1,0 +1,54 @@
+#myCarousel{
+    width: 1800px;
+    height: 800px;
+    margin: 0 auto;
+}
+#carouselContain{
+     background: #F39C12;
+}
+
+#container-article{
+    background: #F39C12;
+
+}
+
+.foot{
+    text-align: center;
+    margin: 0 auto;
+}
+
+#body-poem{
+    background: #F39C12;
+}
+a{
+    text-decoration-line: none;
+    text-decoration-color: #FFFFFF;
+}
+
+.divider{
+    border: solid 2px;
+    border-color: #FFFFFF;
+}
+
+.body-subscribe {
+    padding-top: 65px;
+    background: #F39C12;
+
+}
+
+.body-bio{
+    padding-top: 65px;
+    background: #F39C12;
+
+}
+
+.body-about{
+    padding-top: 70px;
+    background: #F39C12;
+
+}
+
+.form{
+    align-content: center;
+    margin: 0 auto;
+}
